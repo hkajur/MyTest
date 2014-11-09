@@ -2,12 +2,12 @@
 
 A PHP Library to access HTTP-based API
 
-## Table of contents
+## Content
 
-- [Student Requests](Student.md)
-- [Professor Requests](Professor.md)
+    - [Student](StudentReq.md)
+    - [Professor](ProfessorReq.md)
 
-#### login.php 
+### login.php 
 
 Request URL: http://afsaccess1.njit.edu/~vk255/Code_Testing/MiddleEnd/login.php
 
