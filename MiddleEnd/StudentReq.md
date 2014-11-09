@@ -6,7 +6,7 @@ Links
 
 * [Student Exams](#studentexamsphp)
 * [Student Submit Exam](#studentsubmitphp)
-* [Student Graded Exams](#studentgradedExamsphp)
+* [Student Graded Exams](#studentgradedexamsphp)
 * [Student Check Graded Exams](#studentcheckgradedexamphp)
 
 ###studentExams.php
