@@ -4,8 +4,8 @@ A PHP Library to access HTTP-based API
 
 ## Content
 
-    - [Student](StudentReq.md)
-    - [Professor](ProfessorReq.md)
+- [Student](StudentReq.md)
+- [Professor](ProfessorReq.md)
 
 ### login.php 
 

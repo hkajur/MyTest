@@ -16,7 +16,7 @@ On Failure:
 
 ```
 {
-	"Error" : "Not posted"
+	"Error" : "Due to some reason"
 }
 ```
 
