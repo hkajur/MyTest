@@ -117,9 +117,9 @@ If no such exam exists:
 
 Returns a JSON with a list of questions each question containing a JSON for each question and list of JSON for each choice in each question
 
-MC for MultipleChoice 
-TF for TrueFalse
-FB for Fill in the blanks
+* MC for MultipleChoice 
+* TF for TrueFalse
+* FB for Fill in the blanks
 
 
 ### studentSubmit.php
