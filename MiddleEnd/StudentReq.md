@@ -4,10 +4,10 @@ All the requests students can make
 
 Links
 
-[Student Exams](#studentExams.php)
-[Student Submit Exam](#studentSubmit.php)
-[Student Graded Exams](#studentGradedExams.php)
-[Student Check Graded Exams](#studentCheckGradedExam.php)
+* [Student Exams](#studentExams.php)
+* [Student Submit Exam](#studentSubmit.php)
+* [Student Graded Exams](#studentGradedExams.php)
+* [Student Check Graded Exams](#studentCheckGradedExam.php)
 
 ### studentExams.php
 
